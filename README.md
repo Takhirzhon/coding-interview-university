@@ -566,16 +566,16 @@ But don't forget to do coding problems from above while you learn!
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
 - [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
-- [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
-- [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] TopCoder (includes recurrence relations and master theorem):
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
+- [x] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [x] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [x] [Cheat sheet](http://bigocheatsheet.com/)
+- [x] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
 
 Well, that's about enough of that. 
 
@@ -585,13 +585,13 @@ if you can identify the runtime complexity of different algorithms. It's a super
 ## Data Structures
 
 - ### Arrays
-    - [ ] About Arrays:
+    - [x] About Arrays:
     	- [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
         - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-    - [ ] Implement a vector (mutable array with automatic resizing):
+    - [x] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] New raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
